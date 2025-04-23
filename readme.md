@@ -28,6 +28,6 @@ To view the Availability Table:
 
 Or check it out live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Availability-table/)
 
 ## Learn how to style smart, reuse with power, and create elegant UI with CSS variables! 🎨🔁🧠
